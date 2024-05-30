@@ -1,7 +1,7 @@
 /* Add styles here */
 @import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
 
-:root{
+: root{
     --red:#ff3838;
 }
 *{
@@ -10,6 +10,7 @@
     box-sizing: border-box;
     outline: none; border: none;
     text-decoration: none;
+    list-style: none;
     text-transform: capitalize;
     transition: all .2s linear;
     list-style: none;
