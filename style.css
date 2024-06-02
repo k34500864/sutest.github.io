@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
 
 :root{
-    --red:#ff3838;
+    --red:#f;
 }
 *{
     font-family: "Nunito", sans-serif;
@@ -40,7 +40,7 @@ header{
 header .logo{
     font-size: 2.5rem;
     font-weight: bolder;
-    color: #f7614d;
+    color: rgb(195, 0, 255);
 }
 header .navbar a{
     font-size: 2rem;
