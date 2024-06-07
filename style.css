@@ -49,9 +49,6 @@ header .navbar a{
 header .navbar a:hover{
     color: var(--red);
 }
-#nexttitle{
-    font-weight: bolder;
-}
 #menu-bar{
     font-size: 3rem;
     color: #666;
