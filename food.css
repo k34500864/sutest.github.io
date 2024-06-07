@@ -46,9 +46,6 @@ header .navbar a{
     margin-left: 2rem;
     color: #666;
 }
-.foodmenu{
-    color: rgb(224, 0, 0);
-}
 header .navbar a:hover{
     color: var(--red);
 }
@@ -74,6 +71,9 @@ section{
 .home .content{
     flex: 1 1 40rem;
     padding-top: 6.5rem;
+}
+section foodmenu{
+    color: rgb(224, 0, 0);
 }
 @keyframes float{
     0%,100%{
