@@ -49,7 +49,7 @@ header .navbar a{
 header .navbar a:hover{
     color: var(--red);
 }
-nexttitle{
+#nexttitle{
     font-weight: bolder;
 }
 #menu-bar{
