@@ -46,6 +46,10 @@ header .navbar a{
     margin-left: 2rem;
     color: #666;
 }
+foodmenu{
+    color: rgb(224, 0, 0);
+    font-size: larger;
+}
 header .navbar a:hover{
     color: var(--red);
 }
